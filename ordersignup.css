@@ -1,0 +1,80 @@
+body 
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #EF76FF;
+}
+.SignUp
+{
+  background-color: #BB85FF;
+  height: 150px;
+  width: 100%;
+  position: relative;
+}
+.SignUp img
+{
+  height: 90%;
+  width: 85%;
+  margin-top: 3%;
+  margin-left: 7%;
+  position: relative;
+}
+.SignUp1
+{
+  background-color: white;
+  height: 1850px;
+  width: 90%;
+  margin-left: 5%;
+  position: relative;
+  margin-top: 2%;
+}
+.SignUp1 Form
+{
+  max-width: 550px;
+  margin-top: 20%;
+  margin-left: 25%;
+  position: relative;
+}
+.SignUp1 label
+{
+  display: block;
+  margin-top: 10px;
+  position: relative;
+}
+.SignUp1 input
+{
+  width: 98.3%;
+  padding: 10px;
+  border: 2px solid ;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+  color: #EA53BC;
+  margin-left: 1px;
+  position: relative;
+}
+button:hover
+{
+  height: 7%;
+  background-color: deeppink;
+  padding: 5px;
+  position: relative;
+}
+button
+{
+  height: 8%;
+  width: 29%;
+  margin-left: 35%;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  position: relative;
+}
+.SignUp1 h1
+{
+  font-size: 200%;
+  color: #CD1385;
+  margin-top: 10%;
+  margin-left: 5%;
+  position: relative;
+}
+
